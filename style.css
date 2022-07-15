@@ -1,0 +1,42 @@
+.container {
+    max-width: 600px;
+    width: 100%;
+    margin: 5rem auto;
+}
+
+/*remove default down arrow*/
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+/*basic style*/
+select {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    z-index: 1;
+    background-color: transparent;
+    position: relative;
+}
+
+.custom-select-arrow-wrap {
+    position: relative;
+}
+
+.custom-select-arrow:before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f107";
+    z-index: 0;
+    line-height: 2;
+    font-weight: 900;
+    color: #fff;
+    background-color: #153E5D;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    top: 0.45rem;
+    right: 1rem;
+    text-align: center;
+}
