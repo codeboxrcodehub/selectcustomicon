@@ -70,6 +70,6 @@ Contributions to this repo will be appreciated.
 
 ## License
 
-Writelog is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+This repository codes are licensed under the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright 2022 [Codeboxr](https://codeboxr.com)
