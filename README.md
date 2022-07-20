@@ -2,14 +2,14 @@
 
 The dropdown arrow/icon in select/dropdown html  comes from browser's standard style. This repository will to implement a custom icon/arrow for the dropdown/select.
 
-##Demo
+## Demo
 
 
 [View demo](https://codeboxrcodehub.github.io/selectcustomicon/index.html)
 
 ## Usage
 
-#html
+# html
 
 ```
 <div class="custom-select-arrow-wrap">
@@ -27,7 +27,7 @@ The dropdown arrow/icon in select/dropdown html  comes from browser's standard s
 </div>
 ```
 
-#css
+# css
 
 ```
 /*remove default down arrow*/
